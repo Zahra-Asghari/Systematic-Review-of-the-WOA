@@ -19,9 +19,12 @@ The Excel output file includes the following information:
 - Statistical charts
 - ...
 ## Citation
+
+```
 @article{
   title={A Systematic Review of the Whale Optimization Algorithm: Theoretical Foundation, Improvements, and Hybridizations},
   author={Nadimi‑Shahraki, Mohammad H. and Zamani, Hoda and Asghari Varzaneh, Zahra and Mirjalili, Seyedali },
   journal={Archives of Computational Methods in Engineering},
   year={2023}
 }
+```
